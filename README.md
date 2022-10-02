@@ -3,5 +3,5 @@ data-platform-architecture は、売り手企業、買い手企業の周辺業�
 
 ## データ連携基盤のアーキテクチャ
 
-![アーキテクチャ](documents/architecture_v1.18.png)   
+![アーキテクチャ](documents/architecture_v1.19.drawio.png)   
 
